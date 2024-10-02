@@ -9,7 +9,7 @@ Video Processing: Processes input video frames and writes the output with boundi
 
 # Installation
 Clone the repository:
-git clone https://github.com/yourusername/vehicle-speed-estimation.git
+git clone https://github.com/haiderali30/vehicle-detection-tracking-speed_estimation.git
 
 Install the required dependencies
 
